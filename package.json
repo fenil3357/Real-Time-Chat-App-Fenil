@@ -1,0 +1,17 @@
+{
+    "name": "chat-app",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "~3.4.8",
+        "heroku": "^7.59.2",
+        "nodemon": "^2.0.15",
+        "socket.io": "^0.9.19"
+    },
+    "keywords": [
+        "example",
+        "heroku"
+    ],
+    "engines": {
+        "node": "14.x"
+    }
+}

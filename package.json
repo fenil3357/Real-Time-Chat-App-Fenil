@@ -1,17 +1,33 @@
 {
-    "name": "chat-app",
-    "version": "0.0.1",
-    "dependencies": {
-        "express": "~3.4.8",
-        "heroku": "^7.59.2",
-        "nodemon": "^2.0.15",
-        "socket.io": "^0.9.19"
-    },
-    "keywords": [
-        "example",
-        "heroku"
-    ],
-    "engines": {
-        "node": "14.x"
-    }
+  "name": "chat-app",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~3.4.8",
+    "heroku": "^7.59.2",
+    "nodemon": "^2.0.15",
+    "socket.io": "^0.9.19"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "engines": {
+    "node": "14.x"
+  },
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fenil3357/Real-Time-Chat-App-Fenil.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fenil3357/Real-Time-Chat-App-Fenil/issues"
+  },
+  "homepage": "https://github.com/fenil3357/Real-Time-Chat-App-Fenil#readme"
 }

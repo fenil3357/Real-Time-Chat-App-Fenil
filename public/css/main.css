@@ -147,14 +147,3 @@
   }
 }
 
-.contact{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.contactItems{
-  display: flex;
-  padding: 10px;
-  width: 60px;
-  height: 60px;
-}
